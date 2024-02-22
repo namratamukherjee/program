@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+//  add number
 int abc(int a,int b)
 {
     int c=a+b;
